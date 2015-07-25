@@ -13,6 +13,17 @@ thumb: thumb03.jpg
 
 <b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
+{% highlight java linenos %}
+public class Gunhan{
+    private String name;
+    private Integer age;
+    
+    public int getName(){
+        return this.name;
+    }
+}
+{% endhighlight %}
+
 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <!--more-->
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
