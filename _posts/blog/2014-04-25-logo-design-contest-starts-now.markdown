@@ -25,6 +25,21 @@ public class Gunhan{
 }
 {% endhighlight %}
 
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
+
 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <!--more-->
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
